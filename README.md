@@ -1,8 +1,11 @@
-Moje řešení
+    Moje řešení
 
 Distribuce a verze: Debian 13
+
 Použitý Vagrant box: Debian
+
 Adresář serveru: srv01
+
 Kontrolní kód a záznam ze serveru:
 
 **Kontrolní kód:** `SPOS-3I-cd3d4b50cf5e9410ad2bb3b10870293c094bb0a537a4bfefb10c694ec99d02bf`
